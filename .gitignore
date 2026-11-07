@@ -10,3 +10,8 @@ __pycache__
 backend/.venv
 __pycache__
 node_modules
+
+.venv
+backend/.venv
+__pycache__
+node_modules
