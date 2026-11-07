@@ -1,0 +1,12 @@
+node_modules
+dist
+__pycache__
+.env
+.venv
+backend/.venv
+__pycache__
+
+.venv
+backend/.venv
+__pycache__
+node_modules
